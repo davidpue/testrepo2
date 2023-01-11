@@ -3,6 +3,6 @@ public class Galvo
 {
     public string Test()
     {
-        return "fromGalvoV2";
+        return "fromGalvoV3";
     }
 }
